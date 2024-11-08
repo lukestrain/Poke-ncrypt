@@ -5,6 +5,8 @@ This is a project I did for fun that encryptes text with a symmetric key based o
 It makes key distribution fun by offering creative opportunities for sharing how the key was generated. For example, I could commuicate my "team" ahead of time,
 or I could reference a character in the video game series as a team reference to communicate to the key.
 
+The Encryption is a vigenere cipher using a key built by compiling the pokedex entries of the inputted team. Co-pilot generated the code for the encryption and decryption functions as that's more advanced than my skills, but I built the rest.
+
 The file "Pokedex entries formatted" is referenced in the script, so it needs to be included in the same folder.
 
 It ignores all non-alphabetic characters.
