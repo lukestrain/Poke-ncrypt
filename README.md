@@ -3,7 +3,9 @@ Poke-ncrypt!
 
 This is a project I did for fun that encryptes text with a symmetric key based on the pokedex (in-game encyclopedia) entries for up to six selected pokemon.
 It makes key distribution fun by offering creative opportunities for sharing how the key was generated. For example, I could commuicate my "team" ahead of time,
-or I could reference a character in the video game series as a team reference to communicate to the key. 
+or I could reference a character in the video game series as a team reference to communicate to the key.
+
+The file "Pokedex entries formatted" is referenced in the script, so it needs to be included in the same folder.
 
 It ignores all non-alphabetic characters.
 
